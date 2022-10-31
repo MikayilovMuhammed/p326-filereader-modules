@@ -1,0 +1,15 @@
+.icon {
+  color: #005555;
+  font-size: 50px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.uploadInput {
+  display: none;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
